@@ -310,7 +310,7 @@
                                     <version>${cobertura.version}</version>
                                     <configuration>
                                         <formats>
-                                            <format>xml</format>
+                                            <format>html</format>
                                         </formats>
                                     </configuration>
                                 </plugin>
@@ -432,7 +432,6 @@
                         <configuration>
                             <formats>
                                 <format>html</format>
-                                <format>xml</format>
                             </formats>
                         </configuration>
                     </plugin>
